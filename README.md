@@ -1,6 +1,6 @@
 # Getting and Cleaning Data: Final Project
  Peer-graded Assignment: Getting and Cleaning Data Week 4
- It has the instructions on how to run analysis on Human Activity recognition dataset.
+ It has the instructions on how to run an analysis on the dataset.
 
 Dataset
 http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones 
